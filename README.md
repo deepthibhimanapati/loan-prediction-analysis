@@ -10,18 +10,18 @@ To provide insights that help financial institutions better understand the facto
 **Data Description**
 The dataset contains information related to loan applicants across multiple features, both categorical and numerical. Below is an overview of the features:
 
-Loan_ID: Unique loan identifier.
-Gender: Applicant's gender (Male/Female).
-Married: Applicant's marital status (Yes/No).
-Dependents: Number of dependents the applicant has.
-Education: Applicant's education level (Graduate/Not Graduate).
-Self_Employed: Whether the applicant is self-employed (Yes/No).
-ApplicantIncome: Applicant's monthly income.
-CoapplicantIncome: Co-applicant's monthly income.
-LoanAmount: Total loan amount requested (in thousands).
-Loan_Amount_Term: Term of the loan in months.
-Credit_History: Credit history of the applicant (1 = good, 0 = bad).
-Property_Area: The area of the applicant's property (Urban/Semiurban/Rural).
+Loan_ID: Unique loan identifier;
+Gender: Applicant's gender (Male/Female);
+Married: Applicant's marital status (Yes/No);
+Dependents: Number of dependents the applicant has.;
+Education: Applicant's education level (Graduate/Not Graduate);
+Self_Employed: Whether the applicant is self-employed (Yes/No);
+ApplicantIncome: Applicant's monthly income;
+CoapplicantIncome: Co-applicant's monthly income;
+LoanAmount: Total loan amount requested (in thousands);
+Loan_Amount_Term: Term of the loan in months;
+Credit_History: Credit history of the applicant (1 = good, 0 = bad);
+Property_Area: The area of the applicant's property (Urban/Semiurban/Rural);
 Loan_Status: Whether the loan was approved (Y = Yes, N = No).
 
 **Findings:**
